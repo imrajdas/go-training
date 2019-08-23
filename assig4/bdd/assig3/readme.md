@@ -1,2 +1,2 @@
 Before running this test, please run
-```sh ./start.sh```
+```go run ../../../assig3/main.go```
